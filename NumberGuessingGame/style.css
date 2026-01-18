@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(229, 164, 222);
+    text-align: center;
+}
+
+#heading{
+    color: rgb(15, 15, 18);
+    font-size: 2.5em;
+    font-style: italic;
+}
+
+#label{
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+#inputbox{
+    background-color: aqua;
+}
+
+#btn{
+    background-color:rgb(58, 184, 56);
+    color:black;
+    padding: 10px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+#btn:hover{
+    background-color: rgb(249, 249, 62);
+
+}
+
+#h3{
+    color: rgb(185, 14, 14);
+    font-style: italic;
+
+}
