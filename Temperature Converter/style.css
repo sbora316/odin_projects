@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(243, 243, 142);
+}
+
+#heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+}
+
+#label{
+    font-size: 1.5em;
+
+}
+
+#CelsiusInput{
+    padding: 10px 10px;
+    background-color: rgb(191, 191, 233);
+}
+
+#FahrenheitInput{
+    padding: 10px 10px;
+    background-color: rgb(191, 191, 233);
+}
+
+button{
+    padding: 10px 10px;
+    font-size: 1.5em;
+}
