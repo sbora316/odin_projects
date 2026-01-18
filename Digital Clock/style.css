@@ -1,0 +1,27 @@
+body{
+    background-image: url(wallpaper.webp);
+    background-position: center;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+#clock-container{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock{
+    font-size: 7em;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    backdrop-filter: blur(3px);
+    width: 100%;
+}
+
