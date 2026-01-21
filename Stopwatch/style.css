@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    background-color: aquamarine;
+}
+
+#sw-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+#sw{
+    font-size: 6em;
+}
+
+#startbtn{
+     padding: 10px 20px;
+     color: black;
+     font-size: 1.5em;
+     background-color: rgb(83, 93, 241);
+
+}
+
+#resetbtn{
+     padding: 10px 20px;
+     color: black;
+     font-size: 1.5em;
+     background-color: rgb(83, 93, 241);
+
+}
+
